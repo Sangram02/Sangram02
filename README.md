@@ -11,7 +11,7 @@
 ---
 
 # 💫 About Me:
- 🔭 I’m currently working on Back-End<br> 🌱 I’m currently learning <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="20"><br> 👯 I’m looking to collaborate on Front-End<br> 🤔 I’m looking for help with Back-End<br> 💬 Ask me about Front-End<br> 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sangram-kumar-swain-8ba361211/)
+ 🔭 I’m currently working on Back-End<br> 🌱 I’m currently learning <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="20" style="margin-top: 5px;"><br> 👯 I’m looking to collaborate on Front-End<br> 🤔 I’m looking for help with Back-End<br> 💬 Ask me about Front-End<br> 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sangram-kumar-swain-8ba361211/)
 
 
 ## 🌐 Socials:
