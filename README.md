@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arij33tt&style=for-the-badge&color=blue" />
-  <a href="https://github.com/vinij-03?tab=followers">
+  <a href="https://github.com/sangram02?tab=followers">
     <img src="https://img.shields.io/github/followers/sangram02?tab=followers?label=blue&logo=github&style=for-the-badge"        alt="GitHub badge" />
   </a>
 </p>
