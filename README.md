@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&pause=1000&color=F7F5F0&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sangram+Kumar)](https://git.io/typing-svg)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arij33tt&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=sangram02&style=for-the-badge&color=blue" />
   <a href="https://github.com/sangram02?tab=followers">
     <img src="https://img.shields.io/github/followers/sangram02?tab=followers?label=blue&logo=github&style=for-the-badge"        alt="GitHub badge" />
   </a>
